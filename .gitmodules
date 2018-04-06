@@ -4,3 +4,9 @@
 [submodule "ok-blockchain-iot"]
 	path = ok-blockchain-iot
 	url = git@github.com:okcashpro/ok-blockchain-iot.git
+[submodule "blockchain-IoT-core"]
+	path = blockchain-IoT-core
+	url = git@github.com:blockchain-IoT/blockchain-IoT-core.git
+[submodule "awesome-iot-hacks"]
+	path = awesome-iot-hacks
+	url = git@github.com:nebgnahz/awesome-iot-hacks.git
