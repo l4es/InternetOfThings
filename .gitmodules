@@ -1,0 +1,6 @@
+[submodule "Ethereum-IoT"]
+	path = Ethereum-IoT
+	url = git@github.com:bits-and-chains/Ethereum-IoT.git
+[submodule "ok-blockchain-iot"]
+	path = ok-blockchain-iot
+	url = git@github.com:okcashpro/ok-blockchain-iot.git
