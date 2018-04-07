@@ -10,3 +10,6 @@
 [submodule "awesome-iot-hacks"]
 	path = awesome-iot-hacks
 	url = git@github.com:nebgnahz/awesome-iot-hacks.git
+[submodule "esp8266ws2812i2s"]
+	path = esp8266ws2812i2s
+	url = git@github.com:cnlohr/esp8266ws2812i2s.git
