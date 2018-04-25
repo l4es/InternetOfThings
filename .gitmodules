@@ -13,3 +13,24 @@
 [submodule "esp8266ws2812i2s"]
 	path = esp8266ws2812i2s
 	url = git@github.com:cnlohr/esp8266ws2812i2s.git
+[submodule "ZeroMQ/zguide"]
+	path = ZeroMQ/zguide
+	url = https://github.com/booksbyus/zguide.git
+[submodule "ZeroMQ/libzmq"]
+	path = ZeroMQ/libzmq
+	url = https://github.com/zeromq/libzmq.git
+[submodule "ZeroMQ/cppzmq"]
+	path = ZeroMQ/cppzmq
+	url = https://github.com/zeromq/cppzmq.git
+[submodule "ZeroMQ/czmq"]
+	path = ZeroMQ/czmq
+	url = https://github.com/zeromq/czmq.git
+[submodule "ZeroMQ/azmq"]
+	path = ZeroMQ/azmq
+	url = https://github.com/zeromq/azmq.git
+[submodule "ZeroMQ/libzmtp"]
+	path = ZeroMQ/libzmtp
+	url = https://github.com/zeromq/libzmtp.git
+[submodule "ZeroMQ/zmtp"]
+	path = ZeroMQ/zmtp
+	url = https://github.com/zeromq/zmtp.git
