@@ -34,3 +34,6 @@
 [submodule "ZeroMQ/zmtp"]
 	path = ZeroMQ/zmtp
 	url = https://github.com/zeromq/zmtp.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/particle-iot/firmware.git
