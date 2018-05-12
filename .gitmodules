@@ -37,3 +37,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/particle-iot/firmware.git
+[submodule "OpenMTC"]
+	path = OpenMTC
+	url = https://github.com/OpenMTC/OpenMTC.git
