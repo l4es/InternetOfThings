@@ -35,7 +35,7 @@
 	path = ZeroMQ/zmtp
 	url = https://github.com/zeromq/zmtp.git
 [submodule "firmware"]
-	path = firmware
+	path = particle-IoT/firmware
 	url = https://github.com/particle-iot/firmware.git
 [submodule "OpenMTC"]
 	path = OpenMTC
