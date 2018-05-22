@@ -46,3 +46,6 @@
 [submodule "att-lte-mileage-tracker"]
 	path = att-lte-mileage-tracker
 	url = https://github.com/TampaHackerspace/att-lte-mileage-tracker.git
+[submodule "Eclipse/paho.mqtt.cpp"]
+	path = Eclipse/paho.mqtt.cpp
+	url = https://github.com/eclipse/paho.mqtt.cpp.git
