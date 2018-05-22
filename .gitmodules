@@ -49,3 +49,12 @@
 [submodule "Eclipse/paho.mqtt.cpp"]
 	path = Eclipse/paho.mqtt.cpp
 	url = https://github.com/eclipse/paho.mqtt.cpp.git
+[submodule "Eclipse/paho.mqtt.c"]
+	path = Eclipse/paho.mqtt.c
+	url = https://github.com/eclipse/paho.mqtt.c.git
+[submodule "Eclipse/paho.mqtt.embedded-c"]
+	path = Eclipse/paho.mqtt.embedded-c
+	url = https://github.com/eclipse/paho.mqtt.embedded-c.git
+[submodule "Eclipse/paho.mqtt-sn.embedded-c"]
+	path = Eclipse/paho.mqtt-sn.embedded-c
+	url = https://github.com/eclipse/paho.mqtt-sn.embedded-c.git
