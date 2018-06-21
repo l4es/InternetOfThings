@@ -58,3 +58,6 @@
 [submodule "Eclipse/paho.mqtt-sn.embedded-c"]
 	path = Eclipse/paho.mqtt-sn.embedded-c
 	url = https://github.com/eclipse/paho.mqtt-sn.embedded-c.git
+[submodule "example-raspberry-pi"]
+	path = example-raspberry-pi
+	url = https://github.com/Losant/example-raspberry-pi.git
