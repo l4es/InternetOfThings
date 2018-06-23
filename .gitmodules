@@ -61,3 +61,15 @@
 [submodule "example-raspberry-pi"]
 	path = example-raspberry-pi
 	url = https://github.com/Losant/example-raspberry-pi.git
+[submodule "freeboard"]
+	path = freeboard
+	url = https://github.com/Freeboard/freeboard.git
+[submodule "ariadne-io"]
+	path = ariadne-io
+	url = https://github.com/gwilken/ariadne-io.git
+[submodule "Smart-Security-Camera"]
+	path = Smart-Security-Camera
+	url = https://github.com/HackerShackOfficial/Smart-Security-Camera.git
+[submodule "Smart-Bell"]
+	path = Smart-Bell
+	url = https://github.com/dmitrykhramov/Smart-Bell.git
