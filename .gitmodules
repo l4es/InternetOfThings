@@ -73,3 +73,9 @@
 [submodule "Smart-Bell"]
 	path = Smart-Bell
 	url = https://github.com/dmitrykhramov/Smart-Bell.git
+[submodule "esp8266-react"]
+	path = esp8266-react
+	url = https://github.com/TheUdder/esp8266-react.git
+[submodule "gateway-management-ui"]
+	path = gateway-management-ui
+	url = https://github.com/SiliconLabs/gateway-management-ui.git
