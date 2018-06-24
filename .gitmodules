@@ -85,3 +85,6 @@
 [submodule "react-iot"]
 	path = react-iot
 	url = https://github.com/webondevices/react-iot.git
+[submodule "Books/Practical-Internet-of-Things-with-JavaScript"]
+	path = Books/Practical-Internet-of-Things-with-JavaScript
+	url = https://github.com/PacktPublishing/Practical-Internet-of-Things-with-JavaScript.git
