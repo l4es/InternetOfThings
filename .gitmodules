@@ -79,3 +79,9 @@
 [submodule "gateway-management-ui"]
 	path = gateway-management-ui
 	url = https://github.com/SiliconLabs/gateway-management-ui.git
+[submodule "iot-serverless-websockets-react-boilerplate"]
+	path = iot-serverless-websockets-react-boilerplate
+	url = https://github.com/gettechtalent/iot-serverless-websockets-react-boilerplate.git
+[submodule "react-iot"]
+	path = react-iot
+	url = https://github.com/webondevices/react-iot.git
