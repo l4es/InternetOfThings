@@ -88,3 +88,18 @@
 [submodule "Books/Practical-Internet-of-Things-with-JavaScript"]
 	path = Books/Practical-Internet-of-Things-with-JavaScript
 	url = https://github.com/PacktPublishing/Practical-Internet-of-Things-with-JavaScript.git
+[submodule "react-protobuf-mqtt-esp8266"]
+	path = react-protobuf-mqtt-esp8266
+	url = https://github.com/RyleeHarrison/react-protobuf-mqtt-esp8266.git
+[submodule "Farmin/sensehat-api"]
+	path = Farmin/sensehat-api
+	url = https://github.com/farminf/sensehat-api.git
+[submodule "Farmin/statistics-dashboard"]
+	path = Farmin/statistics-dashboard
+	url = https://github.com/farminf/statistics-dashboard.git
+[submodule "Farmin/sensehat-react"]
+	path = Farmin/sensehat-react
+	url = https://github.com/farminf/sensehat-react.git
+[submodule "Farmin/sensehat-angular"]
+	path = Farmin/sensehat-angular
+	url = https://github.com/farminf/sensehat-dashboard.git
