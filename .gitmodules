@@ -103,3 +103,6 @@
 [submodule "Farmin/sensehat-angular"]
 	path = Farmin/sensehat-angular
 	url = https://github.com/farminf/sensehat-dashboard.git
+[submodule "Evothings-Demo-Apps"]
+	path = Evothings-Demo-Apps
+	url = https://github.com/hammadtq/Evothings-Demo-Apps.git
