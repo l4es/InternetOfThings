@@ -109,3 +109,9 @@
 [submodule "Fast-ESP8266-HTML-JS-development-with-Nodejs-Pug"]
 	path = Fast-ESP8266-HTML-JS-development-with-Nodejs-Pug
 	url = https://github.com/projetsdiy/Fast-ESP8266-HTML-JS-development-with-Nodejs-Pug.git
+[submodule "ESP8266WebServer-Bootstrap-Bootswatch"]
+	path = ESP8266WebServer-Bootstrap-Bootswatch
+	url = https://github.com/projetsdiy/ESP8266WebServer-Bootstrap-Bootswatch.git
+[submodule "ESP8266-Webserver-Tutorials"]
+	path = ESP8266-Webserver-Tutorials
+	url = https://github.com/projetsdiy/ESP8266-Webserver-Tutorials.git
