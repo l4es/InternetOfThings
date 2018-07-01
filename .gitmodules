@@ -106,3 +106,6 @@
 [submodule "Evothings-Demo-Apps"]
 	path = Evothings-Demo-Apps
 	url = https://github.com/hammadtq/Evothings-Demo-Apps.git
+[submodule "Fast-ESP8266-HTML-JS-development-with-Nodejs-Pug"]
+	path = Fast-ESP8266-HTML-JS-development-with-Nodejs-Pug
+	url = https://github.com/projetsdiy/Fast-ESP8266-HTML-JS-development-with-Nodejs-Pug.git
