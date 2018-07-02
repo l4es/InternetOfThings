@@ -115,3 +115,6 @@
 [submodule "ESP8266-Webserver-Tutorials"]
 	path = ESP8266-Webserver-Tutorials
 	url = https://github.com/projetsdiy/ESP8266-Webserver-Tutorials.git
+[submodule "OpenSourceUniversalRemote.com"]
+	path = OpenSourceUniversalRemote.com
+	url = https://github.com/alexbain/OpenSourceUniversalRemote.com.git
