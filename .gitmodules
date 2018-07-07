@@ -118,3 +118,21 @@
 [submodule "OpenSourceUniversalRemote.com"]
 	path = OpenSourceUniversalRemote.com
 	url = https://github.com/alexbain/OpenSourceUniversalRemote.com.git
+[submodule "Blynk/blynk-library"]
+	path = Blynk/blynk-library
+	url = https://github.com/blynkkk/blynk-library.git
+[submodule "Blynk/blynk-server"]
+	path = Blynk/blynk-server
+	url = https://github.com/blynkkk/blynk-server.git
+[submodule "Blynk/blynk-library-particle"]
+	path = Blynk/blynk-library-particle
+	url = https://github.com/vshymanskyy/blynk-library-particle.git
+[submodule "Blynk/blynk-library-js"]
+	path = Blynk/blynk-library-js
+	url = https://github.com/vshymanskyy/blynk-library-js.git
+[submodule "Blynk/blynk-library-python"]
+	path = Blynk/blynk-library-python
+	url = https://github.com/vshymanskyy/blynk-library-python.git
+[submodule "Blynk/blynk-library-openwrt"]
+	path = Blynk/blynk-library-openwrt
+	url = https://github.com/vshymanskyy/blynk-library-openwrt.git
