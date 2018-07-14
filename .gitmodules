@@ -136,3 +136,6 @@
 [submodule "Blynk/blynk-library-openwrt"]
 	path = Blynk/blynk-library-openwrt
 	url = https://github.com/vshymanskyy/blynk-library-openwrt.git
+[submodule "barterer"]
+	path = barterer
+	url = https://github.com/reelyactive/barterer.git
