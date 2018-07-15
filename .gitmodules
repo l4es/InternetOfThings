@@ -139,3 +139,6 @@
 [submodule "barterer"]
 	path = barterer
 	url = https://github.com/reelyactive/barterer.git
+[submodule "tigerfid"]
+	path = tigerfid
+	url = https://github.com/tourajghaffari/tigerfid.git
