@@ -142,3 +142,12 @@
 [submodule "tigerfid"]
 	path = tigerfid
 	url = https://github.com/tourajghaffari/tigerfid.git
+[submodule "piGardenWeb"]
+	path = piGardenWeb
+	url = https://github.com/lejubila/piGardenWeb
+[submodule "vor"]
+	path = vor
+	url = https://github.com/futurice/vor
+[submodule "home-IOT-via-raspberry-pi"]
+	path = home-IOT-via-raspberry-pi
+	url = https://github.com/lzhengchun/home-IOT-via-raspberry-pi
